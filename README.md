@@ -2,17 +2,19 @@
 
 GitHub Streak (II)
 
-What your seeing:
+(Press space to begin animation)
+
+What you're seeing:
 
 Poincaré Disk:
 The input domain is the unit disk. 
-Each point on screen is seen as a complex number.
+Each point on the screen is seen as a complex number.
 
 Upper Half-Plane Mapping:
 Each complex point is mapped using a Möbius transform.
 
 Dedekind Eta Function:
-A famous complex modular form evaluated numerically.
+A famous complex modular form is evaluated numerically.
 
 Color Scheme:
 - Hue encodes the argument (angle) of the eta function.
